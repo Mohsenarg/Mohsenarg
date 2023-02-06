@@ -1,3 +1,4 @@
+<foreignObject width="100%" height="100%">
 <div class="container">
   <h1>Hello There ! 👋</h1>
   <h2>Simple Coder</h2>
@@ -179,3 +180,4 @@ h2 {
 }
 
 </style>
+</foreignObject>
