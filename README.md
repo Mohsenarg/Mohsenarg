@@ -1,3 +1,4 @@
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100%" height="100%">
 <div class="container">
   <h1>Hello There ! 👋</h1>
@@ -181,3 +182,4 @@ h2 {
 
 </style>
 </foreignObject>
+</svg>
