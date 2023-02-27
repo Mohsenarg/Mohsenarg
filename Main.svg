@@ -145,7 +145,7 @@ h2 {
   <h1>Hello There ! 👋</h1>
   <h2>Simple Coder</h2>
   <div class="MS-details">
-    <img src="./Pic/Web Developer.svg" alt="realm"/>
+    <img src="./Pic/Web Developer.svg" alt="realm">
     <div class="MS-hover-text">
       <h3>Mohsen Araghi</h3>
       <h4>Web Designer and Network Engineer</h4>
@@ -157,7 +157,7 @@ h2 {
     </div>
   </div>
   <div class="MS-p">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenarg" alt="Mohsen's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenarg" alt="Mohsen's Top Languages">
   </div>
 </div>
 </foreignObject>
