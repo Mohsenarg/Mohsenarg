@@ -1,2 +1,1 @@
-# Welcome, I've been expecting you.
-![](./Main.svg)
+[](./Main.svg)
