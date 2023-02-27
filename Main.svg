@@ -1,6 +1,6 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100%" height="100%">
-<div  xmlns="http://www.w3.org/1999/xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
 <style>
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 body {
@@ -160,6 +160,7 @@ h2 {
   <div class="MS-p">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenarg" alt="Mohsen's Top Languages">
   </div>
+</div>
 </div>
 </foreignObject>
 </svg>
