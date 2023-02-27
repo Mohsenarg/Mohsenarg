@@ -1,6 +1,6 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100%" height="100%">
-<div class="container" xmlns="http://www.w3.org/1999/xhtml">
+<div  xmlns="http://www.w3.org/1999/xhtml">
 <style>
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 body {
@@ -142,6 +142,7 @@ h2 {
   color: #000 !important;
 }
 </style>
+<div class="container">
   <h1>Hello There ! 👋</h1>
   <h2>Simple Coder</h2>
   <div class="MS-details">
