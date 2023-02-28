@@ -1,7 +1,7 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml">
-<style>
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 body {
   background: #58335e;
@@ -141,26 +141,26 @@ h2 {
 .MS-white p {
   color: #000 !important;
 }
-</style>
-<div class="container">
-  <h1>Hello There ! 👋</h1>
-  <h2>Simple Coder</h2>
-  <div class="MS-details">
-    <img src="./Pic/Web Developer.svg" alt="realm">
-    <div class="MS-hover-text">
-      <h3>Mohsen Araghi</h3>
-      <h4>Web Designer and Network Engineer</h4>
-      <p>Designed With ❤️ for Github </p>
+      </style>
+      <div class="container">
+        <h1>Hello There ! 👋</h1>
+        <h2>Simple Coder</h2>
+        <div class="MS-details">
+          <img src="./Pic/Web Developer.svg" alt="realm">
+          <div class="MS-hover-text">
+            <h3>Mohsen Araghi</h3>
+            <h4>Web Designer and Network Engineer</h4>
+            <p>Designed With ❤️ for Github </p>
+          </div>
+          <div class="MS-white MS-text">
+            <p>MohsenArg</p>
+            <a href="https://github.com/Mohsenarg">@MohsenArg</a>
+          </div>
+        </div>
+        <div class="MS-p">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenarg" alt="Mohsen's Top Languages">
+        </div>
+     </div>
     </div>
-    <div class="MS-white MS-text">
-      <p>MohsenArg</p>
-      <a href="https://github.com/Mohsenarg">@MohsenArg</a>
-    </div>
-  </div>
-  <div class="MS-p">
-  
-  </div>
-</div>
-</div>
 </foreignObject>
 </svg>
