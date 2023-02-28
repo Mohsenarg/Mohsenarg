@@ -1,1 +1,1 @@
-[](./Main.svg)
+![](./Main.svg)
