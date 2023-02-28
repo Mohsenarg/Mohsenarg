@@ -5,7 +5,7 @@
 		<p align="center">
       <img src="./Pic/Web Developer.svg" alt="Main img" align="center" width='300px'>
 		</p>
-    <div style="border: 3px solid gray; border-radius:10px;">
+    <div style="border: 3px solid gray">
       <br/>
       <h3 align="center">Mohsen Araghi</h3>
       <h4 align="center">Web Designer and Network Engineer</h4>
