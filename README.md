@@ -2,7 +2,7 @@
         <h1 align="center">Hello There ! 👋</h1>
         <div >
 		<p align="center">
-           <img src="./Pic/Web Developer.svgg" alt="Main img" align="center" width='300px'>
+           <img src="./Pic/Web Developer.svg" alt="Main img" align="center" width='300px'>
 		   </p>
           <div>
             <h3 align="center">Mohsen Araghi</h3>
